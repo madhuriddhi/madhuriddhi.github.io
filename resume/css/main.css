@@ -484,7 +484,7 @@
   background-color: ##fff70f; }
 
 .slider.slider-primary.noUi-target {
-  background-color: rgba(55, 140, 63, 0.4); }
+  background-color: rgba(154,126,166,1); }
 
 .slider.slider-primary .noUi-handle {
   background-color: #42373D; }
@@ -2038,7 +2038,7 @@ textarea.form-control {
   .progress-container.progress-neutral .progress-badge {
     color: #FFFFFF; }
   .progress-container.progress-primary .progress {
-    background: rgba(55, 140, 63, 0.4); }
+    background: rgba(154,126,166,1); }
   .progress-container.progress-primary .progress-bar {
     background: #42373D; }
   .progress-container.progress-primary .progress-value,
